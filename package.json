@@ -1,0 +1,11 @@
+{
+  "name": "react-chat-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.3ac9a6751baf11c03d36a31b9f59b1ad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
